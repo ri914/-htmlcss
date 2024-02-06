@@ -1,0 +1,128 @@
+.midashi{
+    position: relative;
+}
+.midashiko{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    font-size: 35px;
+    font-weight: 20px;
+    text-align: center;
+}
+.maru{
+    position: relative;
+    top: 200px;
+    left: 30px;
+    justify-content: space-between;
+    
+}
+.yoko{
+    display: inline-block;
+}
+
+.kome2{
+    position: relative;
+    top: 300px;
+}
+.orange{
+    position: relative;
+}
+.orangeko{
+    position: absolute;
+    top: 180px;
+    left: 30px;
+    color: white;
+    font-size: 15px;
+    border: 10px solid orange;
+    background-color: orange;
+    border-radius: 38px;
+    padding: 10px 120px;
+  
+}
+.kome{
+    position: relative;
+    font-size: 12px;
+    color: gainsboro;
+    padding: auto;
+    top: 325px;
+    left: 30px;
+}
+.komeko{
+    margin: 0;
+}
+.migiue{
+    position: relative;
+    left: 700px;
+    bottom: 35px;
+
+    
+}
+.migiueko{
+    display: inline-block;
+    margin: 0px 20px;
+    font-size: 10px;
+    text-align: center;
+
+    
+}
+
+    .migiue :last-child{
+        
+
+    }
+.huto{
+    font-weight: 700;
+}
+.container{
+    border: solid 380px none;
+    background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    
+
+}
+.doga{
+   width: 50%;
+}
+.container2{
+    font-size: 16px;
+    margin-bottom: 24px;
+    text-align: left;
+    display: block;
+    
+    display: inline-block;
+    
+}
+.container1{
+    font-size: 38px;
+    font-weight: 900;
+    margin-bottom: 8px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+.moji{
+    width: 100%;
+    align-items: flex-start;
+    margin-bottom: 0;
+    margin-left: 32px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    margin-left: 16px;
+    margin-top: 0;    
+}
+
+body{
+    background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/for-html-css-task/top-hero.jpg);
+    background-position: 60% 0;
+    background-size: cover;
+    overflow-x: hidden;
+}
